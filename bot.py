@@ -5,8 +5,8 @@ import asyncio
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 from telegram import Update
 
-TELEGRAM_TOKEN = "token-here"
-ADMIN_ID = 160
+TELEGRAM_TOKEN = "7177688829:AAFC6qmQXOXLXwvm9byGbAoKaoN1WLUhC-E"
+ADMIN_ID = 7383077317
 BOT_OWNER = "@SOULCRACK"
 APPROVED_USERS_FILE = "approved_users.json"
 
